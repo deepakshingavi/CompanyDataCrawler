@@ -1,0 +1,21 @@
+id,name,matched_company,matched_company_id
+1,DueDil Ltd,,
+2,duedil Ltd.,,
+3,Morgan Stanley UK Group,Morgan Stanley UK Group,1281415
+4,Google UK Limited,Google UK Limited,3977902
+5,Google UK ltd,,
+6,Google U.K. ltd.,,
+7,Barclays PLC,Barclays PLC,48839
+8,Barclays Bank PLC,Barclays Bank PLC,1026167
+9,Barclays Bank P.L.C.,,
+10,barclays plc,Barclays PLC,48839
+11,sequoia Investment management Company limited,Sequoia Investment Management Company Limited,5902847
+12,Sequoia Investment Ltd,,
+13,sequoia Investment management Limited,,
+14,Chelverton asset Management holdings Limited,Chelverton Asset Management Holdings Limited,7315931
+15,Chelverton Asset Management Limited,Chelverton Asset Management Limited,3429348
+16,Chelverton Asset Mgmt Holdings Limited,,
+17,Delta Electronics Europe Limited,Delta Electronics Europe Limited,SC119936
+18,Delta electronics Europe ltd.,,
+19,Jetstone Asset Management (uk) LLP,Jetstone Asset Management (UK) LLP,OC394214
+20,Jetstone Asset Management (UK),,
